@@ -1,0 +1,18 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: myapp_development369
+  pool: 5
+  username: shaitan
+  password: 123456
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: myapp_test369
+  pool: 5
+  username: shaitan
+  password: 123456
+
+
